@@ -1,3 +1,5 @@
+'use client'
+
 import IowaGisLayers from '../ui/IowaGisLayers'
 
 const csSkills = [

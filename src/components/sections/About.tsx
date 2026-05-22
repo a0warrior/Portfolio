@@ -1,3 +1,5 @@
+'use client'
+
 export default function About() {
   return (
     <section id="about" style={{ padding: '4rem 2rem' }}>

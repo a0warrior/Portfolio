@@ -1,3 +1,5 @@
+'use client'
+
 const links = [
   { label: 'aarynjwarrior@gmail.com', href: 'mailto:aarynjwarrior@gmail.com', icon: '✉️' },
   { label: 'a0warrior', href: 'https://github.com/a0warrior', icon: '🐙' },
